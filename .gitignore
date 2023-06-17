@@ -7,3 +7,5 @@ MakeFile
 TicTacToe_CPP
 
 CMakeFiles/
+out/
+.vs/

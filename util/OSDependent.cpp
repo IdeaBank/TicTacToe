@@ -30,7 +30,7 @@ inline void clearConsole()
 
 inline void gotoXY(int x, int y)
 {
-    COORD pos = {x, y};
+    COORD pos = {(short)x, (short)y};
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
 

@@ -6,6 +6,7 @@
 #define TICTACTOE_CPP_HEADERS_H
 
 #include <iostream>
+#include <string>
 #include "../constant/Constants.h"
 #include "../model/BoardData.h"
 #include "../controller/BoardController.h"
