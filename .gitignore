@@ -1,0 +1,9 @@
+.DS_Store
+
+*.cmake
+CMakeCache.txt
+MakeFile
+
+TicTacToe_CPP
+
+CMakeFiles/
